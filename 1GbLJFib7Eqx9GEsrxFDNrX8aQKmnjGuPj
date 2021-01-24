@@ -1,9 +1,9 @@
-<channels></channels>
-<channel>
-<name>[COLOR white][B]Filmes[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes-cat</externallink>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</thumbnail>
-<fanart></fanart>
-<info></info>
+<channels> </channels>
+<canal>
+<name> [COLOR white] [B] Filmes [/ B] [/ COLOR] [COLOR green] [B] ||| PeriFlix [/ B] [/ COLOR] [COR amarelo] [B] Smoking ||| [/ B] [/ COLOR] </name>
+<externallink> https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes-cat </externallink>
+<thumbnail> https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png </thumbnail>
+<fanart> </fanart>
+<info> </info>
 </channel>
 </channels>
