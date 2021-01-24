@@ -1,1 +1,14 @@
-....................
+<channels></channels>
+<channel>
+<name>Deus Não Está Morto: Uma Luz na Escuridão</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/rMWOo7Y0ntOkNuMk2svZxkoRb29.jpg</thumbnail>
+
+
+<item>
+<title>Deus Não Está Morto: Uma Luz na Escuridão</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e78aRWe7Z0c</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/rMWOo7Y0ntOkNuMk2svZxkoRb29.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/gGBE24xD5NdMqvkJJEzP04jtFG9.jpg</fanart>
+<info>Em meio a um intenso debate sobre se uma universidade estadual deve ter uma igreja em seu campus, o pastor Dave (David R. White) é surpreendido com um incêndio na igreja Saint James, no qual morre seu grande amigo, o reverendo Jude (Benjamin A. Onyango). O incidente foi provocado por Adam (Mike C. Manning), que atirou um tijolo em uma janela da igreja após brigar com a namorada (Samantha Boscarino). A situação acirra o debate, ainda mais devido à proposta da universidade em comprar o terreno usado pela igreja para ali construir um centro educacional. Decidido a lutar até o fim, Dave busca ajuda com seu irmão Pearce (John Corbett), que é advogado.</info>
+</item>
+</channel>
