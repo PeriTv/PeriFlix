@@ -11,7 +11,7 @@
  <channel>
  <name>[COLOR white][B]Series[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/PeriTv/PeriFlix/main/Series</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/series.txt</externallink>
  <fanart></fanart>
  <info></info>
  </channel>
