@@ -1,9 +1,9 @@
-<channels> </channels>
-<canal>
-<name> [COLOR white] [B] Filmes [/ B] [/ COLOR] [COLOR green] [B] ||| PeriFlix [/ B] [/ COLOR] [COR amarelo] [B] Smoking ||| [/ B] [/ COLOR] </name>
-<externallink> https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes-cat </externallink>
-<thumbnail> https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png </thumbnail>
-<fanart> </fanart>
-<info> </info>
-</channel>
-</channels>
+<channels>
+ <channel>
+ <name>[COLOR white][B]Filmes[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmes-vstream</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
