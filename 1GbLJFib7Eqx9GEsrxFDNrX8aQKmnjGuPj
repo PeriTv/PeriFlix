@@ -1,6 +1,6 @@
 <channels>
  <channel>
- <name>[COLOR lime][B]Filmes[/B]</name>
+ <name>[COLOR lime][B]Filmes[/B][/COLOR] [B][/B]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/PeriTv/PeriFlix/main/Filmes</externallink>
  <fanart></fanart>
@@ -9,7 +9,7 @@
  </channels>
 
  <channel>
- <name>[COLOR lime][B]Series[/B][/COLOR] [B][/B][/COLOR]</name>
+ <name>[COLOR lime][B]Series[/B][/COLOR] [B][/B]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/PeriTv/PeriFlix/main/Series</externallink>
  <fanart></fanart>
