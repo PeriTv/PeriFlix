@@ -16,3 +16,12 @@
  <info></info>
  </channel>
  </channels>
+
+<channel>
+ <name>[COLOR lime][B]Desenho[/B][/COLOR] [B][/B]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/PeriTv/PeriFlix/main/Desenho</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
