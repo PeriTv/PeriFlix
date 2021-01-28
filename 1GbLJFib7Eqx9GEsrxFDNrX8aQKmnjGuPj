@@ -25,3 +25,13 @@
  <info></info>
  </channel>
  </channels>
+
+<channels>
+ <channel>
+ <name>[COLOR lime][B]Canais De TV[/B][/COLOR] [B][/B]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/PeriTv/PeriFlix/main/tv</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
