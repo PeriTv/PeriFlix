@@ -45,3 +45,13 @@
  <info></info>
  </channel>
  </channels>
+
+<channels>
+ <channel>
+ <name>[COLOR lime][B]TESTE 2[/B][/COLOR] [B][/B]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/Menu%20-%20Categoria.xml</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
