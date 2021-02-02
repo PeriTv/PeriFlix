@@ -55,3 +55,13 @@
  <info></info>
  </channel>
  </channels>
+
+<channels>
+ <channel>
+ <name>[COLOR lime][B]TESTE 3[/B][/COLOR] [B][/B]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Menu-Filmes</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
