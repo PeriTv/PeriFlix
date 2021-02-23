@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ 
+http://srvx.io:80/live/7885037935/fireurl.co/72025.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP 
