@@ -1,6 +1,191 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ 
-http://srvx.io:80/live/7885037935/fireurl.co/72025.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP 
+
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR28opx8plG9dp-nq07zj8-oaHwQb75RsC8FA&usqp=CAU"group-title="LISTA PAGA DE QUALIDADE",33 999475500
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/disneysd/video.m3u8
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr74yNH5IYOcpFByUz30aeQyRZ1P-NLtw2aw&usqp=CAU"group-title="ABERTOS",GLOBO SP SD
+http://diretogo.com:80/Teste0499/4050060/4913
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr74yNH5IYOcpFByUz30aeQyRZ1P-NLtw2aw&usqp=CAU"group-title="ABERTOS",GLOBO SP HD
+http://diretogo.com:80/Teste0499/4050060/2821
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr74yNH5IYOcpFByUz30aeQyRZ1P-NLtw2aw&usqp=CAU"group-title="ABERTOS",GLOBO RJ SD
+http://diretogo.com:80/Teste0499/4050060/4860
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr74yNH5IYOcpFByUz30aeQyRZ1P-NLtw2aw&usqp=CAU"group-title="ABERTOS",GLOBO RJ HD
+http://diretogo.com:80/Teste0499/4050060/345
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr74yNH5IYOcpFByUz30aeQyRZ1P-NLtw2aw&usqp=CAU"group-title="ABERTOS",GLOBO MG SD
+http://diretogo.com:80/Teste0499/4050060/341
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr74yNH5IYOcpFByUz30aeQyRZ1P-NLtw2aw&usqp=CAU"group-title="ABERTOS",GLOBO MG HD
+http://diretogo.com:80/Teste0499/4050060/5556
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4ikgAEjF0dUwOacHwouWFRQp25EBOJ0TxQ&usqp=CAU"group-title="ABERTOS",RECORD TV SP SD
+http://diretogo.com:80/Teste0499/4050060/337
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4ikgAEjF0dUwOacHwouWFRQp25EBOJ0TxQ&usqp=CAU"group-title="ABERTOS",RECORD TV SP HD
+http://diretogo.com:80/Teste0499/4050060/336
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4ikgAEjF0dUwOacHwouWFRQp25EBOJ0TxQ&usqp=CAU"group-title="ABERTOS",RECORD TV RJ SD
+http://diretogo.com:80/Teste0499/4050060/10027008
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4ikgAEjF0dUwOacHwouWFRQp25EBOJ0TxQ&usqp=CAU"group-title="ABERTOS",RECORD TV RJ HD
+http://diretogo.com:80/Teste0499/4050060/10027008
+
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4ikgAEjF0dUwOacHwouWFRQp25EBOJ0TxQ&usqp=CAU"group-title="ABERTOS",RECORD TV MG SD
 http://diretogo.com:80/Teste0499/4050060/9822
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4ikgAEjF0dUwOacHwouWFRQp25EBOJ0TxQ&usqp=CAU"group-title="ABERTOS",RECORD TV MG HD
+http://diretogo.com:80/Teste0499/4050060/9821
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1277px-Rede_Bandeirantes_logo_2011.svg.png"group-title="ABERTOS",BAND SD
+http://diretogo.com:80/Teste0499/4050060/4132
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1277px-Rede_Bandeirantes_logo_2011.svg.png"group-title="ABERTOS",BAND HD
+http://diretogo.com:80/Teste0499/4050060/4895
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReElYTS1GE1bSG1gjHv6kGuwWyi13h0PvEkQ&usqp=CAU"group-title="ABERTOS",SBT RJ SD
+http://diretogo.com:80/Teste0499/4050060/10027018
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReElYTS1GE1bSG1gjHv6kGuwWyi13h0PvEkQ&usqp=CAU"group-title="ABERTOS",SBT RJ HD
+http://diretogo.com:80/Teste0499/4050060/10049869
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlrr4NA6VNoCX6Pu6TYrrBGJXWmNY_q2lUw&usqp=CAU"group-title="ESPORTES",SPORTV SD
+http://diretogo.com:80/Teste0499/4050060/177
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlrr4NA6VNoCX6Pu6TYrrBGJXWmNY_q2lUw&usqp=CAU"group-title="ESPORTES",SPORTV HD
+http://diretogo.com:80/Teste0499/4050060/4797
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu8iRIoakekEb5VBSXPSuR-oc7WeTefM7rpw&usqp=CAU"group-title="ESPORTES",SPORTV 2 SD
+http://diretogo.com:80/Teste0499/4050060/4900
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu8iRIoakekEb5VBSXPSuR-oc7WeTefM7rpw&usqp=CAU"group-title="ESPORTES",SPORTV 2 HD
+http://diretogo.com:80/Teste0499/4050060/5940
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png"group-title="ESPORTES",FOX SPORTS SD
+http://diretogo.com:80/Teste0499/4050060/10047310
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png"group-title="ESPORTES",FOX SPORTS HD
+http://diretogo.com:80/Teste0499/4050060/164
+
+#EXTINF:-1tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"group-title="ESPORTES",ESPN SD
+http://diretogo.com:80/Teste0499/4050060/5371
+
+#EXTINF:-1tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"group-title="ESPORTES",ESPN HD
+http://diretogo.com:80/Teste0499/4050060/154
+
+#EXTINF:-1tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"group-title="ESPORTES",ESPN BRASIL SD
+http://diretogo.com:80/Teste0499/4050060/150
+
+#EXTINF:-1tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"group-title="ESPORTES",ESPN BRASIL HD
+http://diretogo.com:80/Teste0499/4050060/151
+
+#EXTINF:-1tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"group-title="ESPORTES",ESPN EXTRA SD
+http://diretogo.com:80/Teste0499/4050060/10047322
+
+#EXTINF:-1tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"group-title="ESPORTES",ESPN EXTRA HD
+http://diretogo.com:80/Teste0499/4050060/5396
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png"group-title="ESPORTES",BAND SPORTS SD
+http://diretogo.com:80/Teste0499/4050060/17138
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png"group-title="ESPORTES",BAND SPORTS HD
+http://diretogo.com:80/Teste0499/4050060/155
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7gnzX0iaJ_ta29fJljpTO-8-IJzLAhgHzXg&usqp=CAU"group-title="FILMES E SERIES",AMC SD
+http://diretogo.com:80/Teste0499/4050060/7511
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7gnzX0iaJ_ta29fJljpTO-8-IJzLAhgHzXg&usqp=CAU"group-title="FILMES E SERIES",AMC HD
+http://diretogo.com:80/Teste0499/4050060/7511
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png"group-title="FILMES E SERIES",AXN SD
+http://diretogo.com:80/Teste0499/4050060/10047351
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png"group-title="FILMES E SERIES",AXN HD
+http://diretogo.com:80/Teste0499/4050060/10047351
+
+#EXTINF:-1tvg-logo=""group-title="FILMES E SERIES",CINEMAX SD
+http://diretogo.com:80/Teste0499/4050060/230
+
+#EXTINF:-1tvg-logo=""group-title="FILMES E SERIES",CINEMAX HD
+http://diretogo.com:80/Teste0499/4050060/10047341
+
+#EXTINF:-1tvg-logo=""group-title="FILMES E SERIES",SPACE SD
+http://diretogo.com:80/Teste0499/4050060/224
+
+#EXTINF:-1tvg-logo=""group-title="FILMES E SERIES",SPACE HD
+http://diretogo.com:80/Teste0499/4050060/223
+
+#EXTINF:-1tvg-logo=""group-title="FILMES E SERIES",TNT SD
+http://diretogo.com:80/Teste0499/4050060/10047217
+
+#EXTINF:-1tvg-logo=""group-title="FILMES E SERIES",TNT HD
+http://diretogo.com:80/Teste0499/4050060/10047217
+
+#EXTINF:-1tvg-logo=""group-title="FILMES E SERIES",FX SD
+http://diretogo.com:80/Teste0499/4050060/17125
+
+#EXTINF:-1tvg-logo=""group-title="FILMES E SERIES",FX HD
+http://diretogo.com:80/Teste0499/4050060/247
+
+#EXTINF:-1tvg-logo=""group-title="FILMES E SERIES",TNT SERIES SD
+http://diretogo.com:80/Teste0499/4050060/9639
+
+#EXTINF:-1tvg-logo=""group-title="FILMES E SERIES",TNT SERIES HD
+http://diretogo.com:80/Teste0499/4050060/9639
+
+#EXTINF:-1tvg-logo=""group-title="VARIEDADES",DISCOVERY TURBO SD
+http://diretogo.com:80/Teste0499/4050060/17134
+
+#EXTINF:-1tvg-logo=""group-title="VARIEDADES",DISCOVERY TURBO HD
+http://diretogo.com:80/Teste0499/4050060/10047332
+
+#EXTINF:-1tvg-logo=""group-title="VARIEDADES",FOOD NETWORK SD
+http://diretogo.com:80/Teste0499/4050060/2841
+
+#EXTINF:-1tvg-logo=""group-title="VARIEDADES",FOOD NETWORK HD
+http://diretogo.com:80/Teste0499/4050060/2841
+
+#EXTINF:-1tvg-logo=""group-title="VARIEDADES",GNT SD
+http://diretogo.com:80/Teste0499/4050060/71
+
+#EXTINF:-1tvg-logo=""group-title="VARIEDADES",GNT HD
+http://diretogo.com:80/Teste0499/4050060/82
+
+#EXTINF:-1tvg-logo=""group-title="MUSICAS",MULTISHOW SD
+http://diretogo.com:80/Teste0499/4050060/17116
+
+#EXTINF:-1tvg-logo=""group-title="MUSICAS",MULTISHOW HD
+http://diretogo.com:80/Teste0499/4050060/93
+
+#EXTINF:-1tvg-logo=""group-title="MUSICAS",MTV SD
+http://diretogo.com:80/Teste0499/4050060/4957
+
+#EXTINF:-1tvg-logo=""group-title="MUSICAS",MTV HD
+http://diretogo.com:80/Teste0499/4050060/5913
+
+#EXTINF:-1tvg-logo=""group-title="MUSICAS",BIS SD
+http://diretogo.com:80/Teste0499/4050060/10047347
+
+#EXTINF:-1tvg-logo=""group-title="MUSICAS",BIS HD
+http://diretogo.com:80/Teste0499/4050060/10047348
+
+#EXTINF:-1tvg-logo=""group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+http://diretogo.com:80/Teste0499/4050060/5902
+
+#EXTINF:-1tvg-logo=""group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://diretogo.com:80/Teste0499/4050060/5902
+
+#EXTINF:-1tvg-logo=""group-title="DOCUMENTARIOS",HISTORY SD
+http://diretogo.com:80/Teste0499/4050060/10047278
+
+#EXTINF:-1tvg-logo=""group-title="DOCUMENTARIOS",HISTORY HD
+http://diretogo.com:80/Teste0499/4050060/112
+
+#EXTINF:-1tvg-logo=""group-title="DOCUMENTARIOS",HISTORY 2 SD
+http://diretogo.com:80/Teste0499/4050060/17120
+
+#EXTINF:-1tvg-logo=""group-title="DOCUMENTARIOS",HISTORY 2 HD
+http://diretogo.com:80/Teste0499/4050060/115
